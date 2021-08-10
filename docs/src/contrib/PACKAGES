@@ -1,0 +1,9 @@
+Package: ragp
+Version: 0.3.2.0002
+Depends: R (>= 3.3.0)
+Imports: xgboost (>= 1.1.1.1), stringr (>= 1.2.0), httr (>= 1.3.1), xml2 (>= 1.1.1), seqinr(>= 3.3), utils (>= 3.3), graphics (>= 3.3),
+               ggplot2 (>= 2.2.1)
+Suggests: protr, knitr, rmarkdown, dplyr, eulerr
+License: file LICENSE
+MD5sum: 58ab3fd8c95652b4915e6d86585352d3
+NeedsCompilation: no
